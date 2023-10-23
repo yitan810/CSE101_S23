@@ -1,0 +1,15 @@
+/********************************************************************************* 
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#8
+* README
+* Explanation of files for programming assignment 8
+*********************************************************************************/
+
+Seven source files for programming assignment 8:
+`Dictionary.h`: Header file for Dictionary ADT program
+`Dictionary.cpp`: C++ source code for Dictionary ADT program
+`DictionaryTest.cpp`: Test Client for Dictionary ADT program
+`Order.cpp`: First top-level client to read the words from the input file and store each of them with its corresponding value, print the Dictionary in alphabetical order by the RBT algorithms and then print the Dictionary again by a pre-order tree walk. 
+`WordFrequency.cpp`: Second top-level client to read each line of files and store the words into Dictionary as changing them into lowercase and counting the frequency of each word, then print the Dictionary onto the output file.`
+`Makefile': define tasks for running the program
+'README': this file, explanation of the programming assignment

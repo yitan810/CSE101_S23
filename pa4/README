@@ -1,0 +1,18 @@
+/*********************************************************************************
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#4
+* README
+* Explanation of files for programming assignment 4
+*********************************************************************************/
+
+Nine source files for programming assignment 4:
+'Sparse.c': main program to read input file and impletment the functionalities and operations of Matirxs, 
+	    return the results to the output file
+'Matrix.c': C source code for Matrix ADT program
+'Matrix.h': Header file for Matrix ADT program
+'MatrixTest.c': Test Client for Matrix ADT program
+'List.c': C source code for List ADT which contains a List of generic pointers
+'List.h': Header file for List ADT
+'ListTest.c': Test client for List ADT
+'README': this file, explanations of each file for the programming assignment
+'Makefile': defind tasks

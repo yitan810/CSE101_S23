@@ -1,0 +1,15 @@
+/********************************************************************************* 
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#7
+* README
+* Explanation of files for programming assignment 7
+*********************************************************************************/
+
+Six source files for programming assignment 7:
+`Dictionary.h`: Header file for Dictionary ADT program
+`Dictionary.cpp`: C++ source code for Dictionary ADT program
+`DictionaryTest.cpp`: Test Client for Dictionary ADT program
+`Order.cpp`: main program to read the words from the input file and store each of them with its corresponding value, print the Dictionary in alphabetical order and then print the Dictionary again by a pre-oreder tree walk. 
+`Makefile': define tasks for runing the program
+'README': this file, explanation of the programming assignment
+

@@ -1,0 +1,22 @@
+/********************************************************************************* 
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#1
+* README 
+* Explanation of files for programming assignment 1
+*********************************************************************************/ 
+
+##This program built an integer List ADT. Integers can be stored in order by adjusting the position of the cursor in the List and taking action to add new integer in the correct position.To execute the program, enter `make Lex` to make an alphabetical-order List for the list of strings in the input file.  
+
+Five source files for programming assignment 1:
+
+`List.h`: header file for the program.
+
+`List.c`: C source code for the program.
+
+`ListTest.c`: code for testing the functions for the program.
+
+`Lex.c`：Main program, reads context from input file and arrange the list in alphabetical order, store the new list to the output file,
+
+`Makefile`: define tasks
+
+`README`: this file

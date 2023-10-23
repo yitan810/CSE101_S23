@@ -1,0 +1,18 @@
+/********************************************************************************* 
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#5
+* README
+* Explanation of files for programming assignment 6
+*********************************************************************************/
+
+Six source files for programming assignment 6:
+`List.h`: Header file for List ADT program
+`List.cpp`: C++ source code for List ADT program
+`ListTest.cpp`: Test Client for List ADT program
+`Arithmetic.cpp`: main program to read two big integers from input file and output the requested arithmetic on the two integers to the output file
+`BigInteger.cpp`: C++ Source Code for BigInteger program
+'BigInteger.cpp': header file for BigInteger program
+'BigIntegerTest.cpp': Test client for BigInteger program 
+`Makefile': define tasks for running the program
+'README': this file, explanation of the programming assignment
+

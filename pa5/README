@@ -1,0 +1,15 @@
+/********************************************************************************* 
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#5
+* README
+* Explanation of files for programming assignment 5
+*********************************************************************************/
+
+Six source files for programming assignment 5:
+`List.h`: Header file for List ADT program
+`List.cpp`: C++ source code for List ADT program
+`ListTest.cpp`: Test Client for List ADT program
+`Shuffle.cpp`: main program to read the input from command line and output the number of times that each List shuffled 
+	       to become its original order
+`Makefile': define tasks for runing the program
+'README': this file, explanation of the programming assignment

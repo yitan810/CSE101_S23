@@ -1,0 +1,17 @@
+/*********************************************************************************
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#1
+* README
+* Explanation of files for programming assignment 2
+*********************************************************************************/
+
+Eight source files for programming assignment 2:
+`List.c`:C source code for List program
+`List.h`:Header file for List ADT program
+`Graph.c`:C source code for Graph ADT program
+`Graph.h`:Header file for Graph ADT program
+`GraphTest.c`:Test Client for Graph ADT
+`FindPath.c`:Main program to print the adjacency list representaion of the Graph
+	     find the shortest path between two given vertices
+`Makefile`: defind tasks
+`README`:this file

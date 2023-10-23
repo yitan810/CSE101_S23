@@ -1,0 +1,19 @@
+/*********************************************************************************
+* Daria Tan, ytan87 
+* 2023 Winter CSE101 PA#3
+* README
+* Explanation of files for programming assignment 3
+*********************************************************************************/
+
+Eight source files for programming assignment 3:
+`List.c`:C source code for List program
+`List.h`:Header file for List ADT program
+`Graph.c`:C source code for Graph ADT program
+`Graph.h`:Header file for Graph ADT program
+`GraphTest.c`:Test Client for Graph ADT
+`FindComponents.c`:Main program to read the input file
+	     Print the adjacency list representaion of the Graph
+             Using DFS to find the strongly connected components
+	     Print the components to the output file in topologically sorted order 
+`Makefile`: defind tasks
+`README`:this file
